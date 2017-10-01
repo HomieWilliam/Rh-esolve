@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('inicial');
 });
+
+
+Route::get('/registo', function () {
+    return view('registo_user');
+})->name('registo');
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
