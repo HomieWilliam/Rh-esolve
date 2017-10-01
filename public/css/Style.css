@@ -1,0 +1,444 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#Slide1{
+    width: 100%;
+    height: 390px;
+    margin-top: 1.8%;
+    background-color: black;
+}
+#Slide1 img{
+    height: 100%;
+}
+#navbar{
+    width: 100%;
+    height: 180px;
+    background-color: darkgreen;
+}
+
+.headerDivisao0, .headerDivisao1{
+    margin-top: 0;
+    display: inline;
+    float: left;
+    width: 50%;
+    height: 170px; 
+}
+.headerSubDivisao0{
+    width: 100%;
+    height: 50%;
+}
+.headerSubDivisao1{
+    width: 100%;
+    height: 50%;
+}
+#logospace{
+    position:relative; 
+    margin-top:4%;
+}
+#logo{
+position: absolute;  top: -10%;
+}
+#logo h2{
+    font-family: 'Segoe UI Light';
+    color: whitesmoke;
+    font-size: 23px;
+}
+.Toggle, .menu{
+    display: inline;
+    float: left;
+    height: 50%;
+    margin-top: 5%;
+}
+.Toggle{width: 20%;}
+.menu{width: 50%;}
+.menu a{
+    color: white;
+    font-size: 10.5px;
+}
+.menu a:hover{
+  text-decoration: none;
+    line-height: 0;
+    color: white;  
+}
+.link{margin-left: 5%;}
+
+.CentroSubDivisao{
+    height: 45%;
+    width: 45%;
+    margin-left: 55%;
+    margin-top: 3.5%;
+}
+.CentroSubDivisao li{
+    display: inline;
+    float: left;
+    height: 90%;
+    width: 50%;
+}
+#UserIcon{height: 95%;}
+#Recrutador{height: 95%;}
+.linkCandidato{
+    color: white;
+    font-size: 13px;
+}
+.linkCandidato:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.linkRecrutador{
+    color: white;
+    font-size: 13px;
+}
+.linkRecrutador:hover{
+    color: white;
+    text-decoration: none;
+}
+.Borda{
+    border-right-style: solid;
+    border-right-color: white;
+    border-right-width: 0.5px;
+}
+.CentroSubDivisao1{
+    position: relative;
+    width: 40%;
+    height: 40%;
+    margin-left: 70%;
+    margin-top: 6.5%;
+}
+#traco{
+    position: absolute;
+    border-color: white;
+    height: 10px;
+    width: 0.5px;
+    top: 45%;
+    left: 2%;
+    border-right-width: 0.3px;
+    border-right-style: solid;
+}
+#lupa{
+    margin-left: 85%;
+    cursor:pointer;
+} 
+#search{
+    position: absolute;
+    top: -5%;
+    width: 80%;
+    left: 5%;
+    background-color: transparent;
+    border-bottom-width: 0.5px;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    color: whitesmoke;
+    font-family: 'Segoe UI Light';
+}
+#check{
+    display: none;
+}
+#check:checked ~ .barra{
+    transform: translateX(10%);
+}
+#icon{
+    cursor: pointer;
+    height: 90%;
+    margin-top: -10%;
+}
+#carousel-example-generic{
+    margin-top: -1.8%;
+}
+#carousel{  
+    width: 100%;
+    height: 400px;
+}
+#indicadores{
+    margin-left: -13%;
+  
+}
+#indica{
+    margin-left: 5px;
+    background-color: black;
+    opacity: 0.6;
+    border-style: none;
+}
+#descer{
+    margin-top: -1.5%;
+    width: 100%;
+    height: 250px;
+}
+.CentroDoDescer{
+    position: relative;
+    width: 5%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5%;
+}
+.CentroDoDescer img{
+    
+}
+#DesIcon{
+    position: absolute;
+    top: 60%;
+    left: 21%;
+    cursor: pointer;
+}
+.vagas{
+    width: 100%;
+    height: 2550px;
+}
+.VagasLogo, .VagasEmpresas{
+    display: inline;
+    float: left;
+}
+.VagasLogo{
+    height: 3%;
+    width: 8%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.VagasEmpresas{
+    width: 73%;
+    height: 88%;
+    margin-left: 7%;
+}
+
+.VagasEmpresas li{
+    list-style: none;
+    height: 13%;
+    margin-top: 3%;
+}
+.Empresa{
+    display: inline;
+    float: left;
+    height: 100%;
+    width: 22%;
+    margin-left: 2.3%;
+   
+}
+.EmpresaLogo{
+    height: 72%;
+}
+.texto{
+    width: 90%;
+    height: 28%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Company{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.texto p{
+    font-size: 13px;
+    font-family: verdana;
+}
+#middle{
+    margin-top: 10%;
+}
+#Ultimaseccao{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+#rodape{
+    margin-top: 225px;
+    width: 100%;
+    height: 285px;
+    background-color: aqua;
+}
+.Contacto{
+    width: 100%;
+    height: 70%;
+    background-color: black;
+}
+#label{
+    color: white;
+    width: 40%;
+    margin-left: 45%;
+    margin-top:25%;
+}
+.By{
+    position: relative;
+    width: 100%;
+    height: 30%;
+    background-color: #232323;
+}
+p:first-child{
+    color: darkgreen;
+}
+.centroDoBy{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 40%;
+    top: 35%;
+}
+.centroDoBy span{
+    font-size: 11px;
+    color: darkgrey;
+}
+.centroDoBy img{
+    height: 105%;
+}
+.Contacto li{
+    list-style: none;
+    display: inline;
+    float: left;
+    height: 100%;
+    width: 32%;
+    margin-left: 1px;
+}
+.CentroContacto{
+    height: 55%;
+    width: 100%;
+    margin-top: 17%;
+    background-color: black;
+}
+#centroContacto{
+    border-right-style: solid;
+    border-right-width: 0.5px;
+    border-right-color: white;
+    margin-top: 3.5%;
+    border-left-style: solid;
+    border-left-width: 0.5px;
+    border-left-color: white;
+}
+#rightContacto{
+    margin-top: 3.5%;
+}
+.Contacto li h4{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 14px;
+    line-height: inherit;
+    color: whitesmoke;
+}
+#info{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI Light';
+}
+.RedesSocias{
+    width: 35%;
+    height: 35%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.RedesSocias a{
+    display: inline;
+    float: left;
+    width: 30%;
+}
+#rede{
+    height: 100%;
+}
+#subirIcon{
+    position: absolute;
+    cursor: pointer;
+    top: 90%;
+    left: 95%;
+    width: 2%;
+    height: 45px;
+}
+
+.BodyDoLogin{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.top{
+    position: relative;
+    width: 100%;
+    height: 15%;
+}
+.top li{
+    display: inline;
+    float: left;
+    width: 45%;
+    height: 100%;
+}
+.top li h1{
+    font-family: 'Segoe UI Light';
+    margin-top: 5%;
+    color: white;
+    letter-spacing: 0.1em;
+}
+.voltar{
+    position: absolute;
+    left: 5%;
+    top: 40%;
+}
+.Voltarlink{
+    position: absolute;
+    left: 8%;
+    top: 43%;
+    text-decoration: none;
+    color: darkgreen;
+    font-family: 'verdana';
+    text-decoration-line: none;
+}
+.SeccaoLog{
+    position: relative;
+    width: 100%;
+    height: 85%;
+}
+#log{
+    position: absolute;
+    top: 10%;
+    left: 32%;
+}
+.login{
+    height: 79%;
+    width: 33%;
+    background-color: whitesmoke;
+    border-radius: 10px; 
+}
+.email{
+    margin-top: 25%;
+    width: 90%;
+    margin-left: 5%;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style:none;
+    background-color: transparent;
+    border-bottom-color: darkgreen;
+    color: darkgreen; 
+    font-family: 'Segoe UI Light';
+    font-size: 16px;
+}
+.password{
+    margin-top: 20%;
+    width: 90%;
+    margin-left: 5%;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style:none;
+    background-color: transparent;
+    border-bottom-color: darkgreen;
+    color: darkgreen;  
+    font-family: 'Segoe UI Light';
+    font-size: 16px;
+}
+.entrar{
+    width: 45%;
+    height: 11%;
+    margin-top: 12%;
+    margin-left: 25%;
+    color: white;
+    background-color: darkgreen;
+    border-style: none;
+    clear: both;
+}
+#Cadastro{
+    position: absolute;
+    top: 85%;
+    left: 26%;
+    width: 50%;
+    color: darkgreen;
+    cursor: pointer;
+}
