@@ -20,6 +20,9 @@ Route::get('/registo', function () {
     return view('registo_user');
 })->name('registo');
 
+Route::get('/dados_user', function () {
+    return view('dados_user');
+})->name('dados_user');
 
 Auth::routes();
 

@@ -22,7 +22,7 @@
             <div class="headerSubDivisao1">
                 <div class="CentroSubDivisao">
                     <li class="Borda"><img src="img/icons/User%20icon.png" id="UserIcon">
-                        <a href="{{route('registo')}}" class="linkCandidato" >Candidato</a>
+                        <a href="{{route('dados_user')}}" class="linkCandidato" >Candidato</a>
                     </li>
                     <li><img src="img/icons/User%20icon.png" id="Recrutador">
                         <a href="" class="linkRecrutador">Recrutador</a>
