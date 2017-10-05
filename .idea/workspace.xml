@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a82d348-2d44-46a7-9f31-594e47dd7ccf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatars/addPhoto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatars/perfil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/dados_user.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +17,8 @@
       <file leaf-file-name="dados_user.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/dados_user.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+            <state relative-caret-position="398">
+              <caret line="162" column="53" lean-forward="true" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
               <folding>
                 <element signature="e#1041#1216#0#HTML" expanded="false" />
                 <element signature="e#1313#5853#0#HTML" expanded="false" />
@@ -376,12 +369,12 @@
       <workItem from="1506920405956" duration="648000" />
       <workItem from="1506921423709" duration="557000" />
       <workItem from="1506922227892" duration="17947000" />
-      <workItem from="1507239663561" duration="3578000" />
+      <workItem from="1507239663561" duration="4834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30577000" />
+    <option name="totallyTimeSpent" value="31833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1036" height="754" extended-state="0" />
@@ -696,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/dados_user.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        <state relative-caret-position="398">
+          <caret line="162" column="53" lean-forward="true" selection-start-line="162" selection-start-column="53" selection-end-line="162" selection-end-column="53" />
           <folding>
             <element signature="e#1041#1216#0#HTML" expanded="false" />
             <element signature="e#1313#5853#0#HTML" expanded="false" />
