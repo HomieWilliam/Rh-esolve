@@ -16,7 +16,7 @@ body{
 #navbar{
     width: 100%;
     height: 180px;
-    background-color: darkgreen;
+    background-color: #0c3100;
 }
 
 .headerDivisao0, .headerDivisao1{
@@ -253,7 +253,6 @@ position: absolute;  top: -10%;
 .Contacto{
     width: 100%;
     height: 70%;
-    background-color: black;
 }
 #label{
     color: white;
@@ -265,7 +264,10 @@ position: absolute;  top: -10%;
     position: relative;
     width: 100%;
     height: 30%;
-    background-color: #232323;
+}
+.contacto{
+    position: relative;
+
 }
 p:first-child{
     color: darkgreen;
@@ -332,10 +334,12 @@ p:first-child{
 .RedesSocias a{
     display: inline;
     float: left;
-    width: 30%;
+    width: 10%;
 }
 #rede{
     height: 100%;
+	width:10px;
+	margin-left:5px;
 }
 #subirIcon{
     position: absolute;

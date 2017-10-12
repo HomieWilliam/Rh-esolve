@@ -3,12 +3,12 @@
     <div class="Contacto">
         <li>
             <div class="CentroContacto">
-                <h2 id="label">RH esolve</h2>
+                <a href=""> <img src="img/icons/Logotipo.png" ></a>
             </div>
         </li>
 
         <li>
-            <h4>CONTACTOS</h4>
+            <h4 id="subt">CONTACTOS</h4>
             <div id="centroContacto" class="CentroContacto">
                 <p id="info">(+258) 846 323 455</p>
                 <p id="info">(+258) 820 955 958</p>
@@ -18,21 +18,21 @@
         </li>
 
         <li>
-            <h4>FOLLOW US ON</h4>
+            <h4 id="subt">FOLLOW US ON</h4>
             <div id="rightContacto" class="CentroContacto">
                 <div class="RedesSocias">
-                    <a href=""><img src="img/icons/Insta.png" id="rede"></a>
-                    <a href=""><img src="img/icons/Insta.png" id="rede"></a>
-                    <a href=""><img src="img/icons/Insta.png" id="rede"></a>
+                    <a href="" id="Social"><i class="fa fa-facebook-square" id="rede" aria-hidden="true"></i></a>
+                    <a href="" id="Social"><i class="fa fa-twitter" id="rede" aria-hidden="true"></i></a>
+                    <a href="" id="Social"><i class="fa fa-linkedin-square" id="rede" aria-hidden="true"></i></a>
                 </div>
             </div>
         </li>
     </div>
 
 
-    <div class="By">
+    <div class="By" id="By">
         <div class="centroDoBy">
-            <img src="img/icons/User%20icon.png">  <span>2017 Truth Tech Company. Todos direitos reservados</span>
+            <i class="fa fa-copyright" aria-hidden="true"></i>  <span>2017 Truth Tech Company. Todos direitos reservados</span>
         </div>
     </div>
 </div>
